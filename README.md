@@ -1,12 +1,8 @@
-<div style="text-align:center"> 
-
 # Hello, my name is Ainur
 
-</div>
+I am student of **Kazan National Research Technical University named after A.N.Tupolev**
 
-
-I am student of __Kazan National Research Technical University named after A.N.Tupolev__
-Major: __Software Engineering__
+Major: **Software Engineering**
 
 ---
 
